@@ -1,15 +1,15 @@
-# Flux
+# FantoSoft
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+信息技术管道工
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### 技术方向
+
+- 客户端: swift
+- 服务端: jhipster
+- 运维: cloud
+
+---
+
+![fantosoft](https://www.heshuhua.com)
